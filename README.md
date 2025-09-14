@@ -1,4 +1,3 @@
-# Business-Sales-Report-Power-BI
 # 📊 Business Sales Dashboard from E-commerce Data
 
 ## 🔍 Project Overview
