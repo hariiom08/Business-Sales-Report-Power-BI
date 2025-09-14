@@ -59,7 +59,7 @@ An interactive Power BI dashboard that includes:
 
 ## 📁 File Structure
 <br>
-┣ 📊 Business_Sales_Data.pbix<br>
+┣ 📊 Business_Sales_Report.pbix<br>
 ┣ 📄 superstore.xls<br>
 ┣ 📄 README.md<br>
 
