@@ -70,10 +70,10 @@ An interactive Power BI dashboard that includes:
 ## 📸 Screenshots Preview  
 
 ### Dashboard Preview 1  
-![Dashboard Screenshot 1](./Screenshot_2025-09-17_111933.png)
+![Dashboard Screenshot 1](./Screenshot%202025-09-17%20111933.png)
 
 ### Dashboard Preview 2 with city Cambridge  
-![Dashboard Screenshot 2](./Screenshot_202025-09-17_111743.png)
+![Dashboard Screenshot 2](./Screenshot%202025-09-17%20111743.png)
 
 
 ---
