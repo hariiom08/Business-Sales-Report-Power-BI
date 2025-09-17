@@ -73,7 +73,7 @@ An interactive Power BI dashboard that includes:
 ![Dashboard Screenshot 1](./Screenshot_2025-09-17_111933.png)
 
 ### Dashboard Preview 2 with city Cambridge  
-![Dashboard Screenshot 2](./Screenshot_2025-09-17_111743.png)
+![Dashboard Screenshot 2](./Screenshot_202025-09-17_111743.png)
 
 
 ---
