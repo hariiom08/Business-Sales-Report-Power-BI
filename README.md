@@ -57,11 +57,23 @@ An interactive Power BI dashboard that includes:
 
 ---
 
-## 📁 File Structure
+## 📁 File Structure  
 <br>
-┣ 📊 Business_Sales_Report.pbix<br>
-┣ 📄 superstore.xls<br>
-┣ 📄 README.md<br>
+┣ 📊 Business_Sales_Report.pbix <br>
+┣ 📄 superstore.xls <br>
+┣ 📄 README.md <br>
+┣ 🖼️ Screenshot_2025-09-17_111933.png <br>
+┣ 🖼️ Screenshot_2025-09-17_111743.png <br>
+
+---
+
+## 📸 Screenshots Preview  
+
+### Dashboard Preview 1  
+![Dashboard Screenshot 1](./Screenshot_2025-09-17_111933.png)
+
+### Dashboard Preview 2 with city Cambridge
+![Dashboard Screenshot 2](./Screenshot_2025-09-17_111743.png)
 
 ---
 
